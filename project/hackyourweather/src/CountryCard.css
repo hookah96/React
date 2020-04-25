@@ -1,0 +1,16 @@
+.count-card {
+    border: solid;
+    border-radius: small;
+    width: 150%;
+    margin-bottom: 20px;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.weather-description {
+    margin-top: 2px;
+}
+
+.weather {
+    margin-bottom: 0px;
+}
